@@ -7,3 +7,4 @@ Introduction
 
 ![Internet Access Rate by Race_State](Internet_access_rate_by_state.png)
 
+[View the US Demographic Internet Access Map](http://localhost:8888/view/US_demographic_internet_access_map.html)
