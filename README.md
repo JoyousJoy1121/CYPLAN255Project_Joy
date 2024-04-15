@@ -8,4 +8,5 @@ Introduction
 
 ![Internet Access Rate by Race_State](USCon_internet_access_by_state.png)
 
-[View the US Demographic Internet Access Map](Basemap.html)
+[View Basemap.html](Basemap.html)
+
