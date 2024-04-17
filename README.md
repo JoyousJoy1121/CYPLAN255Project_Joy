@@ -9,4 +9,4 @@ Introduction
 
 [View Basemap.html](Basemap.html)
 
-[View Basemap.html](US_demographic_internet_access_map.html)
+[View US_demographic_internet_access_map.html](US_demographic_internet_access_map.html)
