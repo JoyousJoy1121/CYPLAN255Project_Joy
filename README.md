@@ -41,11 +41,7 @@ An interactive map was created using the Folium package to visualize the distrib
 
 
 ### Unfinished Parts:
-
-Regression Model: Examine how race, education level, marital status, and living in a metro area correlate with internet access among older adults.
-
-Additional Graphs: Add four more graphs: a color map depicting the distribution of older adults from different races, and internet access rates in each state.
-
-Drafting the Explanation: Continue drafting the explanation of my analysis and visualizations; complete the writing.
-
-Improving the Map: Enhance the clarity and detail of the map.
+- Regression Model: Examine how race, education level, marital status, and living in a metro area correlate with internet access among older adults.
+- Additional Graphs: Add four more graphs: a color map depicting the distribution of older adults from different races, and internet access rates in each state.
+- Drafting the Explanation: Continue drafting the explanation of my analysis and visualizations; complete the writing.
+- Improving the Map: Enhance the clarity and detail of the map.
