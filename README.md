@@ -1,5 +1,6 @@
 # CYPLAN255Project_Joy
 ## Exploring the Disparities in Internet Usage Among Older Adults
+Leyi(Joy)Zhou, PhD Student, School of Social Weflare
 
 ### Introduction
 While the development of technology and the internet has brought convenience to our lives, the older generation is often left behind. The disparities in accessing information and resources among older adults are deepened by differences in racial background, socioeconomic status, education, and so forth. This project will focus on exploring the disparities in internet usage among older adults.
