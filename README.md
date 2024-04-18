@@ -33,7 +33,7 @@ An interactive map was created using the Folium package to visualize the distrib
 
 ![Internet Access Rate by Race_State](USCon_Internet_access_rate_by_state.png)
 
-![Internet Access Rate by Race_State](USCon_internet_access_by_state.png)
+![Internet Access Rate by Race_State](USCon_internet_access_statename.png)
 
 [View Basemap.html](Basemap.html)
 
