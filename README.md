@@ -48,7 +48,8 @@ An interactive map was created using the Folium package to visualize the distrib
 - Community Tech Support: Establish local tech support hubs where older adults can receive help with their devices. This support can be a part of existing local services or a new volunteer-driven effort.
 - Policy Advocacy: Advocate for policies that require internet service providers to offer equitable services across all demographics and regions. This includes pushing for - expanded broadband infrastructure to rural and underserved areas.
 - Inclusive Design Principles: Encourage software developers and web designers to follow inclusive design principles that accommodate the aging population's needs, such as compatibility with assistive technologies and adaptable user interfaces.
-	In future studies, I would like to continue addressing the issue of the digital divide among the older population. By investigating existing disparities in internet access and designing interventions to ensure equitable internet access, we can help older adults stay connected, informed, and engaged. This not only improves their quality of life but also enhances their participation in the digital world, fostering a more inclusive society.
+  
+In future studies, I would like to continue addressing the issue of the digital divide among the older population. By investigating existing disparities in internet access and designing interventions to ensure equitable internet access, we can help older adults stay connected, informed, and engaged. This not only improves their quality of life but also enhances their participation in the digital world, fostering a more inclusive society.
 
 ### References:
 Berner, J., Rennemark, M., Jogréus, C., Anderberg, P., Sköldunger, A., Wahlberg, M., ... & Berglund, J. (2015). Factors influencing Internet usage in older adults (65 years and above) living in rural and urban Sweden. Health informatics journal, 21(3), 237-249.
