@@ -2,35 +2,34 @@
 ## Exploring the Disparities in Internet Usage Among Older Adults
 Leyi(Joy)Zhou, PhD Student, School of Social Weflare
 
-### Introduction
-#### Digital Divide among older adults 
+### 1. Introduction
+#### 1.1 Digital Divide among older adults 
 Significant digital divides between younger and older generations have been exacerbated by the COVID-19 pandemic, leading to barriers in accessing information and services, as well as hindering social inclusion and engagement (Gallegos-Rejas et al., 2023; Seifert, 2020; Choudrie, Zamani & Obuekwe, 2022). The internet is an essential resource for health information, social connectivity, and financial management (Lepkowsky & Arndt, 2019). However, not all older adults have equal access to these digital benefits. The digital divide describes the unequal distribution of access, knowledge, and proficiency in using information and communication technologies, especially affecting disadvantaged communities (Dykgraaf et al., 2022). This disparity results in an inequitable divide between those who can leverage technology to their advantage and those who cannot (van Dijk, 2005; Yu et al., 2016). Several factors contribute to the digital divide, including limited internet access and devices, a lack of Information Technology (IT) education, low digital literacy, personal beliefs about the value of technology, perceived efficacy in using specific devices, and concerns about cost, privacy protections, and usability (Choudrie, Zamani & Obuekwe, 2022; Peek et al., 2014). Van Dijk (1999) identifies four types of barriers that contribute to the digital divide: lack of interest (‘mental access’), lack of device or network connections (‘material access’), lack of digital skills (‘skills access’), and lack of usage opportunities (‘usage access’). This study will begin by exploring one of the primary factors causing the digital divide—internet access—since having the equipment is foundational for older adults to start using the internet and various technologies in their lives.
 
-#### Disparities in Internet Access
+#### 1.2 Disparities in Internet Access
 Preliminary data suggest there may be significant disparities in internet access among older adults, potentially leading to a digital divide within this demographic (Chang et al., 2015). Such a divide could exacerbate existing inequalities and limit the ability of some older adults to fully participate in increasingly digital societies (Hunsaker & Hargittai, 2018). Older adults with low income and education levels, those from racial minority groups, and individuals with disabilities are particularly affected by this digital divide (Choudrie, Zamani & Obuekwe, 2022; Seifert, 2022). The divide not only restricts material access, such as devices and connections, but also impacts mental access (interest), skills access (digital literacy), and usage access (opportunities for use) (van Dijk, 1999; Yu et al., 2016).
 	
 Several factors might contribute to disparities in internet access among older adults. For instance, older adults in metropolitan areas may have higher internet access rates than those in rural areas, due to better infrastructure and availability of services (Berner et al., 2015). Additionally, there might be racial disparities in internet access, with some racial groups having higher access rates than others (Hargittai et al., 2019). Economic factors also play a crucial role, as the cost of internet services and devices can be prohibitive for some older adults, limiting their ability to go online (Silver, 2014; Yu et al., 2016). This research aims to further explore whether geographical factors, such as which state people live in, correlate with internet access and how these geographical factors interact with demographic factors.
  
-#### Research Question
+#### 1.3 Research Question
 In the digital age, access to the internet has become a critical factor in determining the quality of life, influencing everything from social engagement to access to information and services. As such, disparities in internet access can significantly impact various demographics, particularly older adults. This research aims to delve into the question: Is there a disparity in internet access among older adults? By examining this issue, I hope to uncover patterns of inequality that may exist based on geographic location, socioeconomic status, race, or other factors.
 
-### Methodology
-This study utilized data from the **2022 AARP Healthy Living Survey of Adults Age 50 and Older** conducted by NORC at the University of Chicago. The dataset is publicly available and accessible via the AARP website under "AARP Datasets." Following data cleaning procedures, a total of 1,964 records were selected for analysis.
-#### Variable
+### 2. Methodology
+This study utilized data from the **2022 AARP Healthy Living Survey of Adults Age 50 and Older**, conducted by NORC at the University of Chicago. The dataset is publicly available and can be accessed via the AARP website under "AARP Datasets." Following data cleaning procedures, a total of 1,964 records were selected for analysis. The first part of the analysis includes basic descriptive statistics, such as tabulation and bar graphs, to describe the disparities in internet access among different demographic groups. The second part of the analysis explores the relationship between geographic location and demographic information to visualize whether older adults from different states with diverse demographic characteristics exhibit any differences in internet access.
+
+#### 2.1 Variable
 The primary outcome variable was the presence of internet access at home, categorized into two groups: "internet household" and "Non-internet household." The demographic variables used in this project are:
-- Education ('educ5'): This variable has five values and was regrouped into two categories: "Above HS" includes Vocational/Tech School, Some College, Associate Degrees, Bachelor's Degrees, and Postgraduate/Professional Degrees; "Equal or Under HS" includes High School Graduates or equivalents and those with less than a High School education.
-- Marital Status ('marital'): Initially with six values, this was simplified into two groups: "Married" includes those who are married; "Non-Married" includes all other statuses, such as Divorced, Never Married, Separated, Widowed, and Living with a Partner.
-- Race ('racethni'): With six initial values, this variable maintains categories for White Non-Hispanic, Black Non-Hispanic, and Hispanic groups, while regrouping all other categories into "Other Group" (including Multiracial Non-Hispanic, Asian Non-Hispanic, and Other Non-Hispanic).
-- Metropolitan Status ('Metro'): With two values indicating whether individuals live in a Metro Area or a non-metro area.
-In total, there are 32 different demographic groups derived from these variables (4 categories for Education x 2 for Marital Status x 2 for Race x 2 for Metropolitan Status).
+- Education ('educ5'): This variable has five values: Vocational/Tech School/Some College/Associate Degrees, Bachelor's Degrees, Postgraduate/Professional Degrees, High School Graduates or equivalents, and less than a High School education. The descriptive analysis, both tabulated and graphed, utilizes these five categories. When creating the interactive map, to reduce the number of layers, this variable was regrouped into two categories: **"Above HS"** which includes Vocational/Tech School/Some College/Associate Degrees, Bachelor's Degrees, and Postgraduate/Professional Degrees; and **"Equal or Under HS"** which includes High School Graduates or equivalents and those with less than a High School education.
+- Marital Status ('marital'): This variable has six values: Married, Divorced, Never Married, Separated, Widowed, and Living with a Partner. The descriptive analysis, both tabulated and graphed, utilizes these six categories. When creating the interactive map, to reduce the number of layers, this variable was regrouped into two groups: **"Married"** includes those who are married; **"Non-Married"** includes all other statuses, such as Divorced, Never Married, Separated, Widowed, and Living with a Partner.
+- Race ('racethni'): This variable has six values:  White Non-Hispanic, Black Non-Hispanic, Hispanic，Multiracial Non-Hispanic, Asian Non-Hispanic, and Other Non-Hispanic. The descriptive analysis, both tabulated and graphed, utilizes these five categories. When creating the interactive map, to reduce the number of layers, this variable maintains categories for **White Non-Hispanic**, **Black Non-Hispanic**, and **Hispanic**, while regrouping all other categories into **"Other Group"** (including Multiracial Non-Hispanic, Asian Non-Hispanic, and Other Non-Hispanic).
+- Metropolitan Status ('Metro'): With two values indicating whether individuals live in a **Metro Area** or a **Non-Metro Area**.
 
-#### Geographical Focus: 
-To optimize the scale for visualization, the analysis was confined to the contiguous United States, excluding Alaska and Hawaii. This focus resulted in the inclusion of 1,953 records.
-#### Mapping: 
-An interactive map was created using the Folium package to visualize the distribution of internet access among older adults across different states. This map integrates data from the AARP database with the TIGER/Line shapefiles of U.S. states, effectively representing geographic disparities in internet accessibility.
+#### 2.2 Geographical Focus
+To optimize the scale for visualization, the analysis was confined to the contiguous United States, excluding Alaska and Hawaii. This focus resulted in the inclusion of 1,953 records. An interactive map was created using the **Folium** package to visualize the distribution of internet access among older adults across different states. This map integrates data from the AARP database with the TIGER/Line shapefiles of U.S. states, effectively representing geographic disparities in internet accessibility. In total, there are 32 different demographic groups derived from these variables (4 categories for Education x 2 for Marital Status x 2 for Race x 2 for Metropolitan Status).
 
-### Visualisation 
+### 3. Visualisation 
 
+#### 3.1 Internet Access Rates Among Older Adults from Different Racial/Ethnic Groups
 | racethni            |   Internet Household |   Non-internet household |
 |:--------------------|---------------------:|-------------------------:|
 | 2+, non-Hispanic    |              90.3226 |                  9.67742 |
@@ -42,15 +41,15 @@ An interactive map was created using the Folium package to visualize the distrib
 
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_race.png)
 
-
+#### 3.2 Internet Access Rates Among Older Adults from Metro Area and Non-Metro Area
 | metro          |   Internet Household |   Non-internet household |
 |:---------------|---------------------:|-------------------------:|
 | Metro Area     |              88.8177 |                  11.1823 |
 | Non-Metro Area |              80.5085 |                  19.4915 |
 
-![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_metro.png)
+![Internet Access Rate by Metro](USCon_Internet_access_by_metro.png)
 
-
+#### 3.3 Internet Access Rates Among Older Adults with different eductaion level
 | educ5                                           |   Internet Household |   Non-internet household |
 |:------------------------------------------------|---------------------:|-------------------------:|
 | Bachelor's degree                               |              92.2865 |                  7.7135  |
@@ -59,8 +58,9 @@ An interactive map was created using the Folium package to visualize the distrib
 | Post grad study/professional degree             |              95.0617 |                  4.93827 |
 | Vocational/tech school/some college/ associates |              86.6114 |                 13.3886  |
 
-![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_educ.png)
+![Internet Access Rate by Education](USCon_Internet_access_by_educ.png)
 
+#### 3.4 Internet Access Rates Among Older Adults from Different Racial/Ethnic Groups
 | marital             |   Internet Household |   Non-internet household |
 |:--------------------|---------------------:|-------------------------:|
 | Divorced            |              83.2808 |                 16.7192  |
@@ -70,9 +70,10 @@ An interactive map was created using the Folium package to visualize the distrib
 | Separated           |              81.2865 |                 18.7135  |
 | Widowed             |              83.5714 |                 16.4286  |
 
-![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_marital.png)
+![Internet Access Rate by Marital Status](USCon_Internet_access_by_marital.png)
 
-![Internet Access Rate by Race_State](USCon_Internet_access_rate_by_state.png)
+#### 3.5 Internet Access Rates Among Older Adults from Different State
+![Internet Access Rate by_State](USCon_Internet_access_rate_by_state.png)
 
 ![Internet Access Rate by Race_State](USCon_internet_access_by_state.png)
 
