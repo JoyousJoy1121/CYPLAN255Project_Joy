@@ -1,5 +1,5 @@
 # CYPLAN255Project_Joy
-## Exploring the Disparities in Internet Usage Among Older Adults
+## Exploring the Disparities in Internet Access Among Older Adults
 Leyi(Joy)Zhou, PhD Student, School of Social Weflare
 
 ### 1. Introduction
