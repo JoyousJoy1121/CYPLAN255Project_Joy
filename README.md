@@ -39,6 +39,7 @@ An interactive map was created using the Folium package to visualize the distrib
 | Hispanic            |              86.3861 |                 13.6139  |
 | Other, non-Hispanic |              86.6667 |                 13.3333  |
 | White, non-Hispanic |              91.1877 |                  8.81226 |
+
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_race.png)
 
 
@@ -46,6 +47,7 @@ An interactive map was created using the Folium package to visualize the distrib
 |:---------------|---------------------:|-------------------------:|
 | Metro Area     |              88.8177 |                  11.1823 |
 | Non-Metro Area |              80.5085 |                  19.4915 |
+
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_metro.png)
 
 
@@ -56,6 +58,7 @@ An interactive map was created using the Folium package to visualize the distrib
 | Less than HS                                    |              68.4211 |                 31.5789  |
 | Post grad study/professional degree             |              95.0617 |                  4.93827 |
 | Vocational/tech school/some college/ associates |              86.6114 |                 13.3886  |
+
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_educ.png)
 
 | marital             |   Internet Household |   Non-internet household |
@@ -66,6 +69,7 @@ An interactive map was created using the Folium package to visualize the distrib
 | Never married       |              78.3051 |                 21.6949  |
 | Separated           |              81.2865 |                 18.7135  |
 | Widowed             |              83.5714 |                 16.4286  |
+
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_marital.png)
 
 ![Internet Access Rate by Race_State](USCon_Internet_access_rate_by_state.png)
