@@ -23,6 +23,12 @@ The primary outcome variable was the presence of internet access at home, catego
 - Race ('racethni'): With six initial values, this variable maintains categories for White Non-Hispanic, Black Non-Hispanic, and Hispanic groups, while regrouping all other categories into "Other Group" (including Multiracial Non-Hispanic, Asian Non-Hispanic, and Other Non-Hispanic).
 - Metropolitan Status ('Metro'): With two values indicating whether individuals live in a Metro Area or a non-metro area.
 In total, there are 32 different demographic groups derived from these variables (4 categories for Education x 2 for Marital Status x 2 for Race x 2 for Metropolitan Status).
+
+| metro          |   Internet Household |   Non-internet household |
+|:---------------|---------------------:|-------------------------:|
+| Metro Area     |              88.8177 |                  11.1823 |
+| Non-Metro Area |              80.5085 |                  19.4915 |
+
 #### Geographical Focus: 
 To optimize the scale for visualization, the analysis was confined to the contiguous United States, excluding Alaska and Hawaii. This focus resulted in the inclusion of 1,953 records.
 #### Mapping: 
