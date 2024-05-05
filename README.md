@@ -87,7 +87,6 @@ The graph detailing internet access rates by marital status among older adults r
 #### 3.5 Internet Access Rates Among Older Adults from Different State
 ![Internet Access Rate by_State](USCon_Internet_access_rate_by_state.png)
 ![Internet Access Rate by Race_State](USCon_internet_access_by_state.png)
-
 These two visualizations provided illustrate the internet access rates across the United States using the same dataset but present the information in distinct formats that cater to different analytical needs or preferences.
 - Horizontal Bar Graph: The first graph is a horizontal bar chart that ranks states by the percentage of households with internet access. This visualization is particularly effective for quickly identifying which states have the highest and lowest connectivity. For instance, states like Wyoming and Delaware appear at the top, indicating higher internet access rates, while states like Oklahoma and Louisiana appear at the bottom, suggesting lower rates. The simplicity of the bar chart makes it easy to compare states directly and observe the extent of variation across the country.
 - Heat Map: The second visualization is a heat map of the United States colored according to the percentage of internet access in each state. This geographic representation allows for an immediate visual grasp of regional patterns and anomalies in internet connectivity. For example, one can observe that states in the Northeast generally show higher internet connectivity, which could correlate with urban density and infrastructure availability. Conversely, some states in the South and Southwest show lower connectivity, potentially highlighting regional disparities in infrastructure or economic factors that influence internet access.
@@ -95,6 +94,7 @@ These two visualizations provided illustrate the internet access rates across th
 
 ### Interactive map
 Using **Folium** package to visualize the distribution of internet access among older adults across different states the interactive map integrates data from the AARP database with the TIGER/Line shapefiles of U.S. states, effectively representing geographic disparities in internet accessibility. In total, there are 32 different demographic groups derived from these variables (4 categories for Education x 2 for Marital Status x 2 for Race x 2 for Metropolitan Status).
+
 [View Basemap.html](Basemap.html)
 
 [View US_demographic_internet_access_map.html](US_demographic_internet_access_map.html)
