@@ -30,18 +30,42 @@ To optimize the scale for visualization, the analysis was confined to the contig
 An interactive map was created using the Folium package to visualize the distribution of internet access among older adults across different states. This map integrates data from the AARP database with the TIGER/Line shapefiles of U.S. states, effectively representing geographic disparities in internet accessibility.
 
 ### Visualisation 
+
+| racethni            |   Internet Household |   Non-internet household |
+|:--------------------|---------------------:|-------------------------:|
+| 2+, non-Hispanic    |              90.3226 |                  9.67742 |
+| Asian, non-Hispanic |             100      |                  0       |
+| Black, non-Hispanic |              80.4989 |                 19.5011  |
+| Hispanic            |              86.3861 |                 13.6139  |
+| Other, non-Hispanic |              86.6667 |                 13.3333  |
+| White, non-Hispanic |              91.1877 |                  8.81226 |
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_race.png)
 
 
-![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_metro.png)
 | metro          |   Internet Household |   Non-internet household |
 |:---------------|---------------------:|-------------------------:|
 | Metro Area     |              88.8177 |                  11.1823 |
 | Non-Metro Area |              80.5085 |                  19.4915 |
+![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_metro.png)
 
+
+| educ5                                           |   Internet Household |   Non-internet household |
+|:------------------------------------------------|---------------------:|-------------------------:|
+| Bachelor's degree                               |              92.2865 |                  7.7135  |
+| HS graduate or equivalent                       |              83.526  |                 16.474   |
+| Less than HS                                    |              68.4211 |                 31.5789  |
+| Post grad study/professional degree             |              95.0617 |                  4.93827 |
+| Vocational/tech school/some college/ associates |              86.6114 |                 13.3886  |
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_educ.png)
 
-
+| marital             |   Internet Household |   Non-internet household |
+|:--------------------|---------------------:|-------------------------:|
+| Divorced            |              83.2808 |                 16.7192  |
+| Living with partner |              92.4528 |                  7.54717 |
+| Married             |              93.654  |                  6.34596 |
+| Never married       |              78.3051 |                 21.6949  |
+| Separated           |              81.2865 |                 18.7135  |
+| Widowed             |              83.5714 |                 16.4286  |
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_marital.png)
 
 ![Internet Access Rate by Race_State](USCon_Internet_access_rate_by_state.png)
