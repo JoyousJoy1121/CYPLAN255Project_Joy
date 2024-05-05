@@ -24,11 +24,6 @@ The primary outcome variable was the presence of internet access at home, catego
 - Metropolitan Status ('Metro'): With two values indicating whether individuals live in a Metro Area or a non-metro area.
 In total, there are 32 different demographic groups derived from these variables (4 categories for Education x 2 for Marital Status x 2 for Race x 2 for Metropolitan Status).
 
-| metro          |   Internet Household |   Non-internet household |
-|:---------------|---------------------:|-------------------------:|
-| Metro Area     |              88.8177 |                  11.1823 |
-| Non-Metro Area |              80.5085 |                  19.4915 |
-
 #### Geographical Focus: 
 To optimize the scale for visualization, the analysis was confined to the contiguous United States, excluding Alaska and Hawaii. This focus resulted in the inclusion of 1,953 records.
 #### Mapping: 
@@ -37,9 +32,21 @@ An interactive map was created using the Folium package to visualize the distrib
 ### Visualisation 
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_race.png)
 
+
+![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_metro.png)
+| metro          |   Internet Household |   Non-internet household |
+|:---------------|---------------------:|-------------------------:|
+| Metro Area     |              88.8177 |                  11.1823 |
+| Non-Metro Area |              80.5085 |                  19.4915 |
+
+![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_educ.png)
+
+
+![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_marital.png)
+
 ![Internet Access Rate by Race_State](USCon_Internet_access_rate_by_state.png)
 
-![Internet Access Rate by Race_State](USCon_internet_access_statename.png)
+![Internet Access Rate by Race_State](USCon_internet_access_by_state.png)
 
 [View Basemap.html](Basemap.html)
 
