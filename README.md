@@ -41,6 +41,8 @@ To optimize the scale for visualization, the analysis was confined to the contig
 
 ![Internet Access Rate by Race/Ethnicity](USCon_Internet_access_by_race.png)
 
+The graph and accompanying table illustrate the rates of internet access among older adults across various racial and ethnic groups. It is clear from the data that there is significant variation in internet connectivity among these groups. Asian, non-Hispanic households boast the highest rate of internet access, with 100% connectivity, indicating complete coverage within this demographic. Following closely are the 2+ races, non-Hispanic, and White, non-Hispanic groups, with access rates of approximately 90.3% and 91.2% respectively. On the other hand, Black, non-Hispanic households have a notably lower connectivity rate, at about 80.5%, highlighting a digital divide that may hinder access to vital online resources for individuals within this group. Both Hispanic and Other, non-Hispanic categories have similar rates, around 86%, suggesting moderate levels of internet access. These variances in internet accessibility underscore the need for focused interventions aimed at closing these gaps and ensuring that all racial and ethnic groups have equitable access to digital technologies. Such efforts are crucial for enabling full participation in a digitally-driven society, ensuring that all older adults, regardless of race or ethnicity, can benefit from the resources available online.
+
 #### 3.2 Internet Access Rates Among Older Adults from Metro Area and Non-Metro Area
 | metro          |   Internet Household |   Non-internet household |
 |:---------------|---------------------:|-------------------------:|
@@ -48,6 +50,8 @@ To optimize the scale for visualization, the analysis was confined to the contig
 | Non-Metro Area |              80.5085 |                  19.4915 |
 
 ![Internet Access Rate by Metro](USCon_Internet_access_by_metro.png)
+
+The graph and accompanying table present data on internet access rates among older adults, distinguishing between those living in metropolitan (Metro Area) and non-metropolitan (Non-Metro Area) regions. The visualization clearly shows that internet connectivity is higher in metropolitan areas, with approximately 88.8% of households connected, compared to 80.5% in non-metropolitan areas. This indicates a significant digital divide based on geographic location. The data reveals that non-metropolitan areas face a greater challenge in internet accessibility, with nearly 19.5% of households lacking internet access, compared to about 11.2% in metropolitan areas. This disparity highlights the need for targeted efforts to improve internet infrastructure and accessibility in rural and non-metropolitan areas, ensuring that all older adults, regardless of their geographical location, have equal opportunities to access digital resources and services. 
 
 #### 3.3 Internet Access Rates Among Older Adults with different eductaion level
 | educ5                                           |   Internet Household |   Non-internet household |
